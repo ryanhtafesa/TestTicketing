@@ -1,0 +1,121 @@
+From 890ad4818abc689fba86d53538dc1f248c7ce880 Mon Sep 17 00:00:00 2001
+From: Ryan Higginson <ryan.higginson@student.tafesa.edu.au>
+Date: Fri, 13 Sep 2024 00:42:34 +0930
+Subject: [PATCH 1/2] Modified pricces in development
+
+---
+ Ticketing/.vs/Ticketing/v17/.suo              | Bin 51712 -> 52736 bytes
+ .../.vs/Ticketing/v17/DocumentLayout.json     |  20 +++++++++---------
+ Ticketing/Ticketing/TicketPrice.cs            |   6 +++---
+ 3 files changed, 13 insertions(+), 13 deletions(-)
+
+diff --git a/Ticketing/.vs/Ticketing/v17/.suo b/Ticketing/.vs/Ticketing/v17/.suo
+index 91b98f985359f7e84d28d7c507c412349b3190a6..14b55eb6a19a27dacbdd238ee93da49e53f38b91 100644
+GIT binary patch
+delta 2378
+zcmc&$Urbw77{BMX-LCXr=s&QO0&UkKY%RM$4K%22p@Ruz#jM*Dr~Hw+IoQT#TVQCo
+z!7b6b2f3eb_~Lv}6Qc|D$p=%w7iS{l*(`A{#+Ml|C1E~ney6>6yJToaeDEZ{oZH`b
+z?svZLcfRl3N+0W_Pjol>SW*IRwpK8Gal%n&_=Q9n95Bt!kV)8N-($BJxTNdhd1N0b
+z1J<lw$m{B(Dp`g`0dXG}m~pl$i_4X{M6nr_-(h7Qg$@0}{E%MUs}L{a+=+-G4k5Y_
+z-H5}87ZE*(UIh4!-b2Um;W*+1g6{kZ&I5>75hoF^AznueB8Cvdh^G;18cBS%U<6|_
+z+oy;iUODzqgh)Yz)W3_c*VRW8r!Gx6(=bXkTTq^gp$bu<v2n^X6~llSMZmiLnp~oX
+z-^=*_PZK-UWU<6fY&0DzJ)JeuJ9$bZ&_Is>62_B|FR@i$R8~?W1s#*fO;H~17)J!+
+z#K(OIYARGwieD89zZx_w>By#q&vv=JS-X82y=CBb*}nN9PBwK43>Dj}*#c6gRe@9@
+zW821><Iw4QUbajTBTU!y!Vjznd5c8ehIH)_fzY_sBBt>hGWhla+_T2HJsLmc0;FxT
+zWCAvAah_ESYR=?5q|4(xEfckLs4M;)5_$w3GT-^+VnJH?aOa3;4JmYn@ip8O2rd0*
+z5NaHde{&U998IJhHY+hVAKL1)_LL(ID{K?w9sT@Mis9kQxzl=>s_HE+sOsmb!KHbd
+zoQ1UWC|9qcAn)ww=~bb20Zp46g>-eCuSJ?Rkm`RA?e+`{e^vGTSJ%|#j;<Si+)<PS
+zcTf`uqz<48jwVApk{sNt?J1<3a>WIv3aJ|H+Po{l1++xUo#3|B3)L|J)1JG;4bjF*
+zkY-M~Kd}1BnlEq6tzG&u^TJm5f>GN4^VJ)bpEon%Ta$lOtTEV+R`}K9GkqK2mb}5c
+z3&Ur=?vrnx;^EeeDBEMa2fg~W`{q3Q?3Dd|0_Np|@Xh2)gazUW6CEsN!luz=COLk7
+z;%xF<s_2DyM2JjA<OxZxkMZ;ZSMTG(33WrdUa5UrpXw1ozP`{bAT`8z3mP0+W6JFW
+zldEM{V)?G^HeQfCzZI2yTpQEO`t@M5?2PSPKu56A!@yQ|@btu<pd^jOlElS$=Y9G{
+z2qu!H*{;*y8D&?el4gR_mP0o0<q6C$Nm(f~X8_g_EjHP<lX}!-#b(p=6|cjc=#5E-
+z{7#H-#Cdy%TKXSXK5s!!_9jTx#{c=k@~v|89O<BEoXywqM79_6z~X@^d!e=ExAd@O
+z|4AUU!nD0?pdVQdE)0}IsejqTNPk}8)?*z=GK|QGu*SL;1NRR=ZZHNNgWtp4Kn$b-
+zn~JRTRk{>B{u)U5eXuabgE+?N2nu`Wj14~Wi*S3)3|FHj`VWH+G%<%EGJYH?#`kA)
+z;~6&8#RQo)=3S<dxrm=ndX0ONVzbyHwzLJ3!>z4>;7D6@pe-004Fp52BhQA!){#)t
+zC}9?tBIHq1KrWNR%D=wMf;2G;T`NP`2f23EOe@-rpo2!CgAKnGPlP~pC0w|t;quCJ
+I5b;F*20CV6^Z)<=
+
+delta 1641
+zcmb_b+e;K-6rXQ&blUx9U2DChyK3o{*$CRrOFe9@q^Yzktr$|UA%O*zmzmAoz^2<%
+zy||~hdMW<_ao&nxNeIP<=(!jFgD#9vJy_?AGctk*LIXd(`F`hqzH^M%MaIjbg+Y<|
+z;gDFbtX02%8I``W3PBJI$chhG7S_cl;vj=uQ9mz7`mgiBmzE~5ikiDZ4yoYDo&Qce
+z4<I&B+2?R%SBn4p5oHJ!hJ7Q&qyY=Qkb2TlJB8<I#2G|4Vhj;Lka-85wn18cF_#Xq
+zb8thR&SQ3V_5pA9g$U%t9LwyUerdybH{}zKZz_Xg$$0t^UCy02iY?)t%Ah-a+slYj
+z8Puko${=;Bz5~;KK9{a$LCSy8SIt7bNcSNqLceo@Dm88PC*{8;-9h#){P0yNnj<IO
+zjk%$tc^+4UFp};|*iWPJ&kEaz>@fsICYDv2x-!3~a0k8N?xU|6gcG_pAB-!k5s79`
+z5YU33VM%NUtvsPH3VqZowaTBu%<LeqLz3pe%?+&mhNL6W3`5xgD4S`AHqoCC^~s_~
+zi%o+bddQ|=J(S??Te&XSB<K|hPS+BT4WGbEF@nB5bqjRm`QlWZLHyW<d>GptMGuD&
+zZbZ<+30SIa2P>T9sw3DE7RHNVCNiL~gD9!=niX1#;a6mkS0UNp5wLrp*Ikjx1AUuI
+zR+r>K)S-!VNj406eS*_8x%)-BB?CxgMEFxai#;Atgq@lU+C$7)Y?m^q{0e?I_S+R`
+zT1sy9gaE541<SQ6XwlTRge01(6g(R3HDkFLgILzcH^q1KVOknzd1G02w~UfBEdxol
+z$9^Ywwe9J=1iE@zv5TbVa*G8^bq2{@Ji9MiYtnX6<5kt7VF=ck_WW5j2}Ni@Y5g{h
+z+Rf_EA}Pb<XaxkGehjW8em;}G_gp|y5ZZ(`_#!qeKHE5MZd?_We9e;M&>n2RZE9-@
+z@Mf$FCT<4Ii{tP7|D`C*nF{w-#cAI*;|T&xt{SG1c`SiAdx6v99YJjMN}Emc2om1a
+zlCC4cx7I41P1x(TCLRD|v}D)%(dZkbvm>Y&a$y>adca)2?JqUgR=XK=uY97Uz{td)
+Xa7#9qGo1{_BQ_t)(R38vE{p#FC_t0Z
+
+diff --git a/Ticketing/.vs/Ticketing/v17/DocumentLayout.json b/Ticketing/.vs/Ticketing/v17/DocumentLayout.json
+index 2d782eb..38b5193 100644
+--- a/Ticketing/.vs/Ticketing/v17/DocumentLayout.json
++++ b/Ticketing/.vs/Ticketing/v17/DocumentLayout.json
+@@ -14,8 +14,16 @@
+       "DocumentGroups": [
+         {
+           "DockedWidth": 200,
+-          "SelectedChildIndex": 0,
++          "SelectedChildIndex": 2,
+           "Children": [
++            {
++              "$type": "Bookmark",
++              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
++            },
++            {
++              "$type": "Bookmark",
++              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
++            },
+             {
+               "$type": "Document",
+               "DocumentIndex": 0,
+@@ -24,18 +32,10 @@
+               "RelativeDocumentMoniker": "Ticketing\\TicketPrice.cs",
+               "ToolTip": "C:\\TestTicketing\\Ticketing\\Ticketing\\TicketPrice.cs",
+               "RelativeToolTip": "Ticketing\\TicketPrice.cs",
+-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
++              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+               "WhenOpened": "2024-09-12T15:07:52.677Z",
+               "EditorCaption": ""
+-            },
+-            {
+-              "$type": "Bookmark",
+-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+-            },
+-            {
+-              "$type": "Bookmark",
+-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+             }
+           ]
+         }
+diff --git a/Ticketing/Ticketing/TicketPrice.cs b/Ticketing/Ticketing/TicketPrice.cs
+index 7f97d4f..676f8df 100644
+--- a/Ticketing/Ticketing/TicketPrice.cs
++++ b/Ticketing/Ticketing/TicketPrice.cs
+@@ -14,9 +14,9 @@ namespace Ticketing
+         private decimal amountDue;
+         private decimal mPrice;
+ 
+-        const decimal mdecBalcony = 35.0m;
+-        const decimal mdecGeneral = 28.55m;
+-        const decimal mdecBox = 62.1m;
++        const decimal mdecBalcony = 15.0m;
++        const decimal mdecGeneral = 18.55m;
++        const decimal mdecBox = 12.1m;
+         const decimal mdecDiscount = 5.0m; 
+ 
+         private int Section
+-- 
+2.46.0.windows.1
+
